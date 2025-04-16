@@ -77,4 +77,8 @@ if prompt := st.chat_input("Ask me anything about Beta Alpha Psi: Nu Sigma Chapt
         st.session_state.messages.append({"role": "assistant", "content": response})
     except Exception as e:
         st.error(f"An error occurred: {str(e)}")
+<<<<<<< Updated upstream
         st.stop()
+=======
+        st.stop()
+>>>>>>> Stashed changes
