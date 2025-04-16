@@ -1,46 +1,30 @@
-# Membership Requirements
+# BAP Member Requirements and Checklist
 
-## Academic Requirements
+## Member Requirements
 
-- Must be enrolled in a business program
-- Minimum GPA of 3.0
-- Must have completed at least one semester of college coursework
-- Must have completed or be enrolled in at least one accounting course
+### Attendance Requirements
+- 80% attendance at professional meetings
+- Attend half of all community service and fundraising events
+- Attend Year-End Induction
 
-## Professional Requirements
+### Service Requirements
+- Complete 8 hours of tutoring services in the academic year
 
-- Attend at least 75% of chapter meetings
-- Participate in at least one professional event per semester
-- Complete a minimum of 12 hours of community service per semester
-- Maintain professional conduct at all chapter events
+### Financial Requirements
+- $25 annual membership fee
 
-## Application Process
+## Member Checklist
 
-1. Submit an online application
-2. Provide official transcript
-3. Complete an interview with chapter officers
-4. Pay membership dues
-5. Attend new member orientation
+✓ Pay Annual Membership Dues
+✓ Attend Career Fair
+✓ Attend Induction Meeting each semester
+✓ Complete Tutoring Hours (4 - Semester/8 - Academic Year)
+✓ Maintain 80% Attendance at Meetings
+✓ Complete Community Service Hours
 
-## Benefits of Membership
-
-- Networking opportunities with professionals
-- Access to exclusive career events
-- Leadership development
-- Community service opportunities
-- Academic support and resources
-- Professional development workshops
-
-## Dues and Fees
-
-- One-time initiation fee: $100
-- Semester dues: $75
-- National dues: $95 (annual)
-
-## Important Dates
-
-- Application deadlines:
-  - Fall Semester: September 15
-  - Spring Semester: February 15
-- New Member Orientation: First week of October and March
-- Initiation Ceremony: Mid-October and Mid-March 
+## Important Notes
+- BAP Members have the option to attend meetings either In-Person or Virtually
+- Zoom links are sent every Monday
+- Attendance tracking via QR code is mandatory for both in-person and virtual attendance
+- The reflection paper policy applies to both BAP Candidates and Members
+- All tutoring hours must be scheduled through the WebCampus Tutoring Scheduling Link 
