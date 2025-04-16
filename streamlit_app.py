@@ -14,9 +14,9 @@ st.set_page_config(
 )
 
 # Show title and description
-st.title("🎓 Beta Alpha Psi: Nu Sigma Chapter Q&A Bot")
+st.title("InformaNu")
 st.write(
-    "Welcome to the Beta Alpha Psi: Nu Sigma Chapter Q&A Bot! "
+    "Welcome to InformaNu: Beta Alpha Psi - Nu Sigma Chapter Q&A Bot! "
     "Ask me anything about our chapter, events, requirements, or history."
 )
 
